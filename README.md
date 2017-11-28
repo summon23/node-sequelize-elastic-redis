@@ -1,0 +1,1 @@
+# node-sequelize-elastic-redis
